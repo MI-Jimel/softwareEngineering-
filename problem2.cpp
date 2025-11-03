@@ -1,7 +1,8 @@
-
+// Import header files
 #include<iostream>
 using namespace std;
 
+// Main function
 int main() {
 
     int arr1[] = {1, 4, 6, 3, 6, 9};
